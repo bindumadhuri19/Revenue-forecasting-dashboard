@@ -4,7 +4,10 @@ Create a Revenue Forecasting Dashboard: Unlocking Business potential in Power BI
 Analyze sales data to forecast quarterly revenue trends.
 Help leadership make data-driven decisions to reduce stock shortages and optimize inventory.
 
-2. Key Questions (KPIs)
+Dataset: https://1drv.ms/x/c/15ad32ce2becc660/EZBvx_aXwz1NgCXCOHpEKxABoP0BPzPslibOOhdE7ja8oQ?e=bKEoEs (online retail dataset)
+
+
+3. Key Questions (KPIs)
 The dashboard should answer the following key questions:
 What is the total revenue?
 What are the quarterly revenue trends?
@@ -13,7 +16,7 @@ Which regions or countries contribute the most to revenue?
 How is inventory performing (e.g., stock shortages, overstock)?
 What is the forecasted revenue for the next quarter?
 
-3. Process (Step-by-Step)
+4. Process (Step-by-Step)
 Data Preparation:
 Load the dataset (e.g., Online Retail dataset).
 Clean the data (remove cancelled orders, handle missing values).
@@ -31,6 +34,8 @@ Bar Chart: Top products by revenue.
 Bar Chart: Revenue by country.
 Table: Stock performance.
 Add filters and slicers (e.g., year, quarter, country).
+Dashboard: https://1drv.ms/i/c/15ad32ce2becc660/EYkUnO_TnzVPmzghtXxe4M0BRdhIv6zJFsjvObv1eKnw-g?e=lIDvHN
+
 
 
 4. Project Insights
